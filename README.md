@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi my names is José de Jesús Murillo Martínez. 
 
-<!--
-**jesusss10/jesusss10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<- Actually I'm studying computational engineering at the Guadalajara university -> 
 
-Here are some ideas to get you started:
+### I'm currently learning languages such as Python, C and C ++ 
+#### I would like to specialize in C and learn goal-oriented programing 
+#### I'm good at: 
+1. Organizing large amounts of data.
+2. Sharing and understanding people.
+3. Communicating assertively.
+4. trying to do my best.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can look for my on linkedin.
+#### This is the link: 
+https://www.linkedin.com/in/jos%C3%A9-de-jes%C3%BAs-murillo-mart%C3%ADnez-b86369452/
+
+
